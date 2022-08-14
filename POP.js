@@ -1,4 +1,4 @@
-// Procedure Oriented Programming (POP)
+// Procedure oriented programming (POP) :-
 function Addition(No1, No2) {
     var Ans = 0;
     Ans = No1 + No2;
@@ -13,6 +13,6 @@ var Value1 = 10;
 var Value2 = 11;
 var Ret = 0;
 Ret = Addition(Value1, Value2);
-console.log("Addition is : " + Ret);
+console.log("Addition is :" + Ret);
 Ret = Substraction(Value1, Value2);
-console.log("Substraction is : " + Ret);
+console.log("Substraction is :" + Ret);

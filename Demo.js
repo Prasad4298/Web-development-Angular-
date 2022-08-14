@@ -1,4 +1,11 @@
-var no = 11; // int no = 11;
-var str = "Jay Ganesh...";
-console.log(str); // Display on console
+// var no = 11;            javascript cha syntax
+var no = 11; // typescript
+var str = "SHREE SWAMI SAMARTH.......!";
+console.log(str);
 console.log(no);
+/*
+var for veriable
+; is optional
+java scipt is not support to data type
+
+*/

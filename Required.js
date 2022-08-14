@@ -1,5 +1,5 @@
-// Required arguments 
-// Number of requred argumensts are 3
+// Required arguments :-
+// Number of required arguments are 3
 function Demo(no1, no2, no3) {
     console.log("Inside Demo");
 }
